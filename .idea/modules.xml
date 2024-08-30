@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Enum.iml" filepath="$PROJECT_DIR$/Enum.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosClaseMath.iml" filepath="$PROJECT_DIR$/EjerciciosClaseMath.iml" />
+>>>>>>> 695216397b2f86ed4ce4bb5f6d4d4abfb559a57a
     </modules>
   </component>
 </project>
